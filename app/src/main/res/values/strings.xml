@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Art Space App</string>
+    <string name="prev">Previous</string>
+    <string name="nex">Next Slide</string>
+    <string name="art1">Harish Srinivas SR</string><string name="art1desc">Portrait statue of Libraty And Made with finest colour selection with dotted pattern style</string>
+    <string name="art2">Nichola Tesla</string><string name="art2desc">Portrait Effiel Tower which was made with high contrast colour colabrattions with dotted pattern style</string>
+    <string name="art3">Albert Einstein</string><string name="art3desc">Again the Librety But Now in Simple Mono Colour Tone Symbolic represt NEW YORK</string>
+    <string name="art4">Harsha Vardhini</string><string name="art4desc">Here Our Great Man who defined e=mc^2 note that he portraited in colour photograph</string>
+</resources>
